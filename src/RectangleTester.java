@@ -1,6 +1,9 @@
+import java.sql.SQLOutput;
+
 public class RectangleTester {
     public static void main(String[] args) {
-        //test your rectangle here
+        Rectangle rect = new Rectangle(10.0, 15.0);
 
+        System.out.println(rect.toString());
     }
 }
