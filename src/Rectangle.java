@@ -44,9 +44,22 @@ public class Rectangle { //make public for CS A
     {
         width = newWidth;
     }
+
+    /**
+     * Allows the user to change the height of the rectangle.
+     * @param newHeight - desired height
+     */
+    public void setHeight(double newHeight) { height = newHeight; }
     //other methods
 
-
+    /**
+     * @return returns area of the rectangle
+     */
+    public double calculateArea() { return width*height; }
+    /**
+     * @return returns perimeter of the rectangle
+     */
+    public double calculatePerimeter() { return (2 * width) + (2 * height); }
 
 
     //toString method

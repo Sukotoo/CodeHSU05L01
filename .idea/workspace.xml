@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55116333-ecaa-4a7c-aa8b-71433493b488" name="Changes" comment="almost finished constructor overloading">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="55116333-ecaa-4a7c-aa8b-71433493b488" name="Changes" comment="finished the rectangle class + added documentation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
     </list>
@@ -44,7 +43,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675185801090</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished the rectangle class + added documentation">
+      <created>1675359525750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675359525750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,6 +66,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="almost finished constructor overloading" />
-    <option name="LAST_COMMIT_MESSAGE" value="almost finished constructor overloading" />
+    <MESSAGE value="finished the rectangle class + added documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the rectangle class + added documentation" />
   </component>
 </project>
