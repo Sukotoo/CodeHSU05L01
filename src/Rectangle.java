@@ -11,8 +11,8 @@ import java.text.DecimalFormat;
 public class Rectangle { //make public for CS A
 
     //instance variables
-    double width;
-    double height;
+    private double width;
+    private double height;
     //default constructor (make public for CS A)
     public Rectangle(double width, double height)
     {
@@ -60,7 +60,6 @@ public class Rectangle { //make public for CS A
      * @return returns perimeter of the rectangle
      */
     public double calculatePerimeter() { return (2 * width) + (2 * height); }
-
 
     //toString method
     public String toString()
