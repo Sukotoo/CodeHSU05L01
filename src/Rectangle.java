@@ -61,6 +61,18 @@ public class Rectangle { //make public for CS A
      */
     public double calculatePerimeter() { return (2 * width) + (2 * height); }
 
+    // reset rectangle function
+
+    /**
+     * @description resets rectangle to its defaults
+     * @param rect - rectangle to reset
+     */
+    public void resetRectangle(Rectangle rect)
+    {
+        rect.width = 1;
+        rect.height = 1;
+    }
+
     //toString method
     public String toString()
     {
